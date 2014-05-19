@@ -1,5 +1,5 @@
 #!/bin/sh
-declare -a arr=(".aliases" ".bash_prompt")
+declare -a arr=(".aliases" ".bash_prompt" ".bash_profile")
 dest_dir=~
 cwd=$(pwd)
 
