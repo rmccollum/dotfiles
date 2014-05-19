@@ -1,3 +1,4 @@
+#!/bin/sh
 declare -a arr=(".aliases" ".bash_prompt")
 dest_dir=~
 cwd=$(pwd)
